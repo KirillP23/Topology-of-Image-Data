@@ -1,5 +1,6 @@
-# Topology-of-Image-Data
+# Topology of Image Data
 The idea is to represent different types of motion as topological manifolds of its images.
+For the background and results, see [the presentation](Presentation.pdf).
 
 Python script generate_angle generates a csv file containing the image data.
 
